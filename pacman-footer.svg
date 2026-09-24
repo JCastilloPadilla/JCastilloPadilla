@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 58" width="300" height="58" role="img" aria-label="Pequeño comecocos monocromo avanzando entre puntos">
+  <rect width="300" height="58" fill="#f4efe4"/>
+  <line x1="16" y1="10" x2="284" y2="10" stroke="#c9c1b0"/>
+  <line x1="16" y1="48" x2="284" y2="48" stroke="#c9c1b0"/>
+  <g fill="#141210">
+    <circle cx="91" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="119" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="147" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="175" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="203" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;14 0;0 0" dur="3.2s" repeatCount="indefinite"/>
+    <path fill="#141210" d="M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z">
+      <animate attributeName="d" values="M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z;M 61 29 L 75 28 A 14 14 0 1 0 75 30 Z;M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z" dur="0.7s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="60" cy="23" r="1" fill="#f4efe4"/>
+  </g>
+  <text x="278" y="33" text-anchor="end" font-family="Consolas, monospace" font-size="8" letter-spacing="2" fill="#8a8172">FIN.</text>
+</svg>

@@ -43,3 +43,7 @@ Soy estudiante de Ingeniería en Sistemas de la Información en FIMAZ-UAS. Me in
   <a href="https://www.linkedin.com/in/jose-carlos-castillo-padilla-9a46423bb/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/linkedin.svg?color=%23F4EFE4" /><img src="https://api.iconify.design/mdi/linkedin.svg?color=%23141210" height="28" alt="LinkedIn" title="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0009-0002-7847-5586"><img src="https://cdn.simpleicons.org/orcid/141210/F4EFE4" height="28" alt="ORCID" title="ORCID" /></a>
 </p>
+
+<p align="center">
+  <img src="pacman-footer.svg" width="300" alt="Pac-Man monocromo animado como cierre del perfil" />
+</p>
