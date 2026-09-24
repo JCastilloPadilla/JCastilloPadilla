@@ -1,20 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 58" width="300" height="58" role="img" aria-label="Pequeño comecocos monocromo avanzando entre puntos">
-  <rect width="300" height="58" fill="#f4efe4"/>
-  <line x1="16" y1="10" x2="284" y2="10" stroke="#c9c1b0"/>
-  <line x1="16" y1="48" x2="284" y2="48" stroke="#c9c1b0"/>
-  <g fill="#141210">
-    <circle cx="91" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
-    <circle cx="119" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1s" repeatCount="indefinite"/></circle>
-    <circle cx="147" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
-    <circle cx="175" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="203" cy="29" r="2.5"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="2.2s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60" role="img" aria-label="Pac-Man blanco recorre el perfil y se come los puntos">
+  <g fill="#ffffff">
+    <circle cx="70" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.05122;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="115" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.10610;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.16098;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="205" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.21585;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.27073;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="295" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.32561;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.38049;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="385" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.43537;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.49024;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="475" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.54512;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.60000;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="565" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.65488;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.70976;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="655" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.76463;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.81951;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="745" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.87439;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.92927;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="835" cy="30" r="3"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.98415;1" calcMode="discrete" dur="10s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;820 0" dur="10s" repeatCount="indefinite"/>
+      <path d="M 28 30 L 40 18 A 17 17 0 1 0 40 42 Z">
+        <animate attributeName="d" values="M 28 30 L 40 18 A 17 17 0 1 0 40 42 Z;M 28 30 L 45 29 A 17 17 0 1 0 45 31 Z;M 28 30 L 40 18 A 17 17 0 1 0 40 42 Z" dur="0.6s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="27" cy="23" r="1.5" fill="#141210"/>
+    </g>
   </g>
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;14 0;0 0" dur="3.2s" repeatCount="indefinite"/>
-    <path fill="#141210" d="M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z">
-      <animate attributeName="d" values="M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z;M 61 29 L 75 28 A 14 14 0 1 0 75 30 Z;M 61 29 L 72 20 A 14 14 0 1 0 72 38 Z" dur="0.7s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="60" cy="23" r="1" fill="#f4efe4"/>
-  </g>
-  <text x="278" y="33" text-anchor="end" font-family="Consolas, monospace" font-size="8" letter-spacing="2" fill="#8a8172">FIN.</text>
 </svg>
