@@ -45,5 +45,5 @@ Soy estudiante de Ingeniería en Sistemas de la Información en FIMAZ-UAS. Me in
 </p>
 
 <p align="center">
-  <img src="pacman-footer.svg" width="100%" alt="Pac-Man blanco avanza y se come los puntos a lo largo del perfil" />
+  <img src="pacman-chase-white.svg" width="100%" alt="Pac-Man blanco avanza y se come los puntos a lo largo del perfil" />
 </p>
