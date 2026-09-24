@@ -1,79 +1,45 @@
-## Hola 👋
-
-<!--
-**Jos3ki/Jos3ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
-
-<!-- Welcome -->
-<h1 align="center">bienvenido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+Jose+Carlos+Castillo.">
-  <img src="image.svg" width="50" alt="FlowTrix Project">
+  <img src="editorial-profile.svg" width="100%" alt="José Carlos Castillo Padilla. Estudiante de Ingeniería en Sistemas de la Información en FIMAZ-UAS. Su proyecto principal es FlowTrix, una plataforma de monitoreo de red." />
 </p>
 
-<!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
-
-<!-- Description -->
-```diff
-👨‍🎓 Ing. Sistema de informacion FIMAZ-UAS.
-+ 💻 Apasionado al desarrollo web.
-+ ⚡ Siempre aprendieno.
-✅ Responsable, Curioso, y motivado a seguir creciendo.
-- ✨ Si lo puedes imaginar lo pudes programar. 
-+ 🧠 Actuamente Trabajando en FlowTrix. 
-```
-
-<!-- Skills Section -->
-## 🛠️ My skills
-
-🔤 Languages  
 <p align="center">
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
-  <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
-  <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
-  <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="50" alt="Dart logo" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1000&size=20&color=F4EFE4&background=141210&center=true&vCenter=true&width=490&lines=%3E+Observar.+Entender.+Construir." alt="Observar. Entender. Construir. Texto animado en blanco cálido sobre negro" />
 </p>
 
-🧰 Other Tools & Technologies  
+Soy estudiante de Ingeniería en Sistemas de la Información en FIMAZ-UAS. Me interesan las redes, los sistemas, el desarrollo web y la seguridad informática. Actualmente participo en el desarrollo de **FlowTrix**, una plataforma que observa la actividad de red desde el arranque de los equipos y reúne la información en un panel para consulta y auditoría.
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
-  <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
-   <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  <img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" width="50" alt="Debian logo" />
+  <a href="https://flowtrix.fimaz.uas.edu.mx/acerca-de"><img src="flowtrix-link.svg" width="344" alt="Explorar FlowTrix: proyecto de monitoreo de red" /></a>
 </p>
 
----
+### Herramientas y tecnologías
 
-## 📬 Redes  
+<p align="center"><strong>Lenguajes y web</strong></p>
 <p align="center">
-  <a href="https://instagram.com/joseca.castillo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
-  </a>
-   <a href="mailto:joosec29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-  </a>
+  <img src="https://cdn.simpleicons.org/html5/141210/F4EFE4" height="42" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/141210/F4EFE4" height="42" alt="CSS" title="CSS" />
+  <img src="https://cdn.simpleicons.org/javascript/141210/F4EFE4" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/php/141210/F4EFE4" height="42" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/dart/141210/F4EFE4" height="42" alt="Dart" title="Dart" />
+  <img src="https://cdn.simpleicons.org/dotnet/141210/F4EFE4" height="42" alt=".NET" title=".NET" />
+</p>
 
-  <a href="https://www.youtube.com/@josecarloscastillopadilla4224">
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-   
-</a>
+<p align="center"><strong>Herramientas y sistemas</strong></p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/apache/141210/F4EFE4" height="42" alt="Apache" title="Apache" />
+  <img src="https://cdn.simpleicons.org/git/141210/F4EFE4" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/141210/F4EFE4" height="42" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/gnubash/141210/F4EFE4" height="42" alt="Terminal" title="Terminal" />
+  <img src="https://cdn.simpleicons.org/mysql/141210/F4EFE4" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/debian/141210/F4EFE4" height="42" alt="Debian" title="Debian" />
+</p>
 
+### Contacto
+
+<p align="center">
+  <a href="https://instagram.com/joseca.castillo"><img src="https://cdn.simpleicons.org/instagram/141210/F4EFE4" height="28" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:joosec29@gmail.com"><img src="https://cdn.simpleicons.org/gmail/141210/F4EFE4" height="28" alt="Correo" title="Correo" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@josecarloscastillopadilla4224"><img src="https://cdn.simpleicons.org/youtube/141210/F4EFE4" height="28" alt="YouTube" title="YouTube" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jose-carlos-castillo-padilla-9a46423bb/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/linkedin.svg?color=%23F4EFE4" /><img src="https://api.iconify.design/mdi/linkedin.svg?color=%23141210" height="28" alt="LinkedIn" title="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0002-7847-5586"><img src="https://cdn.simpleicons.org/orcid/141210/F4EFE4" height="28" alt="ORCID" title="ORCID" /></a>
 </p>
